@@ -1,0 +1,23 @@
+{
+  "name": "portfoilogrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameralsudani/portfoilogrid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameralsudani/portfoilogrid/issues"
+  },
+  "homepage": "https://github.com/sameralsudani/portfoilogrid#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
