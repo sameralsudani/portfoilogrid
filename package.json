@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sameralsudani/portfoilogrid/issues"
   },
-  "homepage": "https://github.com/sameralsudani/portfoilogrid#readme",
+  "homepage": "https://sameralsudani.github.io/portfoilogrid",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
