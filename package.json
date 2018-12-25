@@ -6,16 +6,9 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sameralsudani/portfoilogrid.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sameralsudani/portfoilogrid/issues"
-  },
   "homepage": "https://sameralsudani.github.io/portfoilogrid",
   "dependencies": {
     "gh-pages": "^2.0.1"
